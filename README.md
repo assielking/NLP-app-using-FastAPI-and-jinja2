@@ -30,3 +30,6 @@ Note that the model has an accuracy of 99.25% on the training set and 85.95% on 
 
 
 
+https://github.com/assielking/NLP-app-using-FastAPI-and-jinja2/assets/145512245/05fd735d-51c5-4eac-9bae-b18bacf2b404
+
+
