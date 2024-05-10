@@ -1,5 +1,5 @@
-pip install scikit-learn
-pip install nltk
-pip install pandas
-pip install fastapi
-pip install uvicorn
+scikit-learn
+nltk
+pandas
+fastapi
+uvicorn
